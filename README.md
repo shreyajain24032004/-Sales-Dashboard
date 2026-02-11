@@ -1,4 +1,4 @@
-<img width="1536" height="863" alt="Screenshot 2026-02-11 192919" src="https://github.com/user-attachments/assets/1ce69da0-603a-479f-8a9f-34ae9f9ec487" /># -Sales-Dashboard
+# -Sales-Dashboard
 The Sales Dashboard is an interactive data visualization tool designed to monitor and analyze sales performance in real time. It transforms raw sales data into meaningful insights through dynamic charts, graphs,and reports. The dashboard helps businesses understand trends, track progress, and make informed strategic decisions.
 
 🎯 Purpose
@@ -31,7 +31,7 @@ Business Owners
 
 It is suitable for businesses of all sizes looking to optimize their sales performance and achieve sustainable growth.
 
-
+<img width="1536" height="863" alt="Screenshot 2026-02-11 192919" src="https://github.com/user-attachments/assets/1ce69da0-603a-479f-8a9f-34ae9f9ec487" />
 
 
 
